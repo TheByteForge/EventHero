@@ -1,7 +1,8 @@
 ![Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/TheByteForge/EventHero/blob/master/images/EventHeroLogo.png?raw=true)
 
 
-# Event Hero : Social Integrated Event Venue WebApp Template
+# Event Hero
+# Social Integrated Event Venue WebApp Template
 [![HitCount](http://hits.dwyl.com/{TheByteForge}/{EventHero}.svg)](http://hits.dwyl.com/{TheByteForge}/{EventHero})
 [![JavaScript Style Guide: AirBnB Standards](https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg?style=flat)](https://github.com/dwyl/airbnb "AirBnB Standards")
 [![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)
