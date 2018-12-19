@@ -1,11 +1,14 @@
 ![Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/TheByteForge/EventHero/blob/master/images/EventHeroLogo.png?raw=true)
 
+# Impportant Information, Read Me!
+Please follow this link to view the Github Repository where this project's code is hosted. Thanks for viewing our project!
+* [Event Hero](https://github.com/L-Figgins13/HoneyHiveV2)
 
 # Event Hero : Social Integrated Event Venue WebApp Template
-[![HitCount](http://hits.dwyl.com/{TheByteForge}/{HoneyHiveV2}.svg)](http://hits.dwyl.com/{TheByteForge}/{HoneyHiveV2})
+[![HitCount](http://hits.dwyl.com/{TheByteForge}/{EventHero}.svg)](http://hits.dwyl.com/{TheByteForge}/{EventHero})
 [![JavaScript Style Guide: AirBnB Standards](https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg?style=flat)](https://github.com/dwyl/airbnb "AirBnB Standards")
 [![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)
-[![Build Status](https://travis-ci.org/{TheByteForge}/{HoneyHiveV2}.png?branch=master)](https://travis-ci.org/{TheByteForge}/{HoneyHiveV2})
+[![Build Status](https://travis-ci.org/{TheByteForge}/{EventHero}.png?branch=master)](https://travis-ci.org/{TheByteForge}/{EventHero})
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
