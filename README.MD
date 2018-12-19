@@ -9,11 +9,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-# **Important: Code Hosting Location**
-Please follow this link to view the Github Repository where this project's code is hosted. Thanks for viewing our project!
-* [Event Hero](https://github.com/L-Figgins13/HoneyHiveV2)
-
-
 **Event Hero : Social Integrated Event Venue WebApp Template** is a **Universal JavaScript Application**
 
 It utilizes the **react-boilerplate**(https://www.reactboilerplate.com/) technologies stack. This application began with the sole intent of providing a venue owner in San Francisco with an event website to promote his business. The application had several key focus points that guided its creation. The application needed to be simple to use for someone with low technical competence to update and revise at a later point in time after development was complete. The application needed to integrate with social media so that venue goers could easily keep in contact with the venue and stay informed. Lastly, the application needed to have constantly updated events so as to help guide venue participants to more information about the shows and their favorite artists from the venue. 
@@ -22,6 +17,11 @@ It was upon finishing development on this initial application that we realized t
 
 * [Website](www.eventhero.github.io)
 * [Documentation](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs)
+
+
+# **Important: Code Hosting Location**
+Please follow this link to view the Github Repository where this project's code is hosted. Thanks for viewing our project!
+* [Event Hero](https://github.com/L-Figgins13/HoneyHiveV2)
 
 
 ### Event Venue - Example Template
