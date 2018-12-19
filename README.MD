@@ -1,11 +1,11 @@
-![Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHeroLogo.png?raw=true)
+![Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/TheByteForge/EventHero/blob/master/images/EventHeroLogo.png?raw=true)
 
 
 # Event Hero : Social Integrated Event Venue WebApp Template
-[![HitCount](http://hits.dwyl.com/{L-Figgins13}/{HoneyHiveV2}.svg)](http://hits.dwyl.com/{L-Figgins13}/{HoneyHiveV2})
+[![HitCount](http://hits.dwyl.com/{TheByteForge}/{HoneyHiveV2}.svg)](http://hits.dwyl.com/{TheByteForge}/{HoneyHiveV2})
 [![JavaScript Style Guide: AirBnB Standards](https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg?style=flat)](https://github.com/dwyl/airbnb "AirBnB Standards")
 [![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)
-[![Build Status](https://travis-ci.org/{L-Figgins13}/{HoneyHiveV2}.png?branch=master)](https://travis-ci.org/{L-Figgins13}/{HoneyHiveV2})
+[![Build Status](https://travis-ci.org/{TheByteForge}/{HoneyHiveV2}.png?branch=master)](https://travis-ci.org/{TheByteForge}/{HoneyHiveV2})
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
@@ -21,14 +21,14 @@ It was upon finishing development on this initial application that we realized t
 
 ### Event Venue - Example Template
 <p align="center">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-Features.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-Details-Perspective.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - DetailsPerspective">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-HH-Home.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Home">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-HH-About.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - About ">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-HH-Gallery.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Gallery">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-HH-Contact.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Contact">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-HH-Details.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Details">
-<img src="https://github.com/L-Figgins13/HoneyHiveV2/blob/master/public/images/EventHero-OverviewScreens.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Overview">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-Features.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-Details-Perspective.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - DetailsPerspective">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-HH-Home.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Home">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-HH-About.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - About ">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-HH-Gallery.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Gallery">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-HH-Contact.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Contact">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-HH-Details.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Details">
+<img src="https://github.com/TheByteForge/EventHero/blob/master/images/EventHero-OverviewScreens.jpg?raw=true" width="100%" height="auto" alt="Featured Example - Venue Template - Overview">
 </p>
 
 
@@ -104,7 +104,7 @@ If you would like to contribute to Event Hero : Social Integrated Event Venue We
 
 1. ```Make sure that you have Node.js v8.10 and npm v5 or above installed.```
 
-2. ```git clone "https://github.com/L-Figgins13/EventHero"```
+2. ```git clone "https://github.com/TheByteForge/EventHero"```
 
 3. ```cd EventHero```
 
@@ -150,7 +150,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 
 ## Authors
-* **Logan Figgins** - *Designer & Developer* - @github/L-Figgins13 - [Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/L-Figgins13)
+* **Logan Figgins** - *Designer & Developer* - @github/LFiggins13 - [Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/LFiggins13)
 * **Zack Watkins** - *Designer & Developer* - @github/TheByteForge - [Event Hero : Social Integrated Event Venue WebApp Template](https://github.com/TheByteForge)
 
 
