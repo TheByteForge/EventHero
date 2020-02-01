@@ -12,7 +12,11 @@
 
 **Event Hero : Social Integrated Event Venue WebApp Template** is a **Universal JavaScript Application**
 
-[View The Project Design Case Study](https://www.behance.net/gallery/86079427/Event-Hero-WebApp-Template)
+
+
+***[View The Project Design Case Study](https://www.behance.net/gallery/86079427/Event-Hero-WebApp-Template)***
+
+
 
 It utilizes the **react-boilerplate**(https://www.reactboilerplate.com/) technologies stack. This application began with the sole intent of providing a venue owner in San Francisco with an event website to promote his business. The application had several key focus points that guided its creation. The application needed to be simple to use for someone with low technical competence to update and revise at a later point in time after development was complete. The application needed to integrate with social media so that venue goers could easily keep in contact with the venue and stay informed. Lastly, the application needed to have constantly updated events so as to help guide venue participants to more information about the shows and their favorite artists from the venue. 
 
